@@ -1,0 +1,15 @@
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\bin\Debug\net6.0\Practica-colecciones.exe
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\bin\Debug\net6.0\Practica-colecciones.deps.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\bin\Debug\net6.0\Practica-colecciones.runtimeconfig.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\bin\Debug\net6.0\Practica-colecciones.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\bin\Debug\net6.0\Practica-colecciones.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.csproj.AssemblyReference.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.AssemblyInfoInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.AssemblyInfo.cs
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.csproj.CoreCompileInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\refint\Practica-colecciones.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\Practica-colecciones.genruntimeconfig.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Practica-colecciones\obj\Debug\net6.0\ref\Practica-colecciones.dll
